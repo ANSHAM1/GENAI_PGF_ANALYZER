@@ -19,3 +19,6 @@ This project is a PDF analyzer that utilizes a Generative AI model to extract an
    ```bash
    $env:GEMINI_API_KEY = "your api key"                                                                                          
    > streamlit run ".py file path"
+
+
+linked_post: https://www.linkedin.com/posts/ansham-maurya-69ab80297_ai-chatbot-innovation-activity-7221822749193687041-aHzt?
